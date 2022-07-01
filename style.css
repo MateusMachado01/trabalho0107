@@ -1,0 +1,41 @@
+header{
+    background-color: darkslateblue;
+    width: 1250px;
+    height: 400px;
+}
+
+
+
+footer{
+     float: left;
+    display: block;
+}
+footer img{
+     width: 30%;
+    
+}
+
+
+
+h1{
+    text-align: center;
+    padding-top: 150px;
+    font-size: 50px;
+}
+h2{
+    margin-left: 50px;
+}
+
+
+
+
+main p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+main img{
+    width: 1150px;
+    height: 400px;
+    margin-left: 50px;
+
+}
